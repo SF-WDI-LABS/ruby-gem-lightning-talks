@@ -14,7 +14,7 @@ You should aim to answer the following questions:
 
 ## Topic/Gem Ideas
 
-**Once you pick a gem, sign up in [this google doc](https://docs.google.com/spreadsheets/d/1gt_i5t22O_vnxHJTvejG_kqq434aaSTg8n5YUwq9kjA/edit?usp=sharing)**.
+**Once you pick a gem, sign up in [this google doc](https://docs.google.com/a/generalassemb.ly/spreadsheets/d/1QLDOsQ-hk_-O-dMoPOb0ZSkaN-jYIvTqQ6OV_85cba0/edit?usp=sharing)**.
 
 Here are a few gems you could research: 
 

@@ -14,7 +14,7 @@ You should aim to answer the following questions:
 
 ## Topic/Gem Ideas
 
-**Once you pick a gem, sign up in [this google doc](https://docs.google.com/a/generalassemb.ly/spreadsheets/d/1QLDOsQ-hk_-O-dMoPOb0ZSkaN-jYIvTqQ6OV_85cba0/edit?usp=sharing)**.
+**Once you pick a gem, sign up in the Project Submission doc.**.
 
 Here are a few gems you could research: 
 
@@ -22,10 +22,13 @@ Here are a few gems you could research:
 * rdoc
 * nokogiri
 * rqrcode
-* Stripe
+* stripe
 * better_errors for Rails
 * awesome_print
 * githug
+* cancancan
+* omniauth
+* actionmailer
 
 Browse way more gems at  [Ruby Toolbox](https://www.ruby-toolbox.com/) (outdated) or the newer [rubygems.org](https://rubygems.org/)!
 

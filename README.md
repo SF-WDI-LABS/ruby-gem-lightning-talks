@@ -1,6 +1,6 @@
 # Ruby on Rails Lightning Talks
 
-Your goal is to create an exceedingly brief presentation of a ruby gem (~5 min).
+Your goal is to create an exceedingly brief presentation of a ruby gem (5 min MAX, we WILL cut you off).
 
 
 **Include a live demo or a working code example**. Please also [create a brief github gist](https://help.github.com/articles/creating-gists/) (or "cheat sheet") for your fellow developers, outlining your findings, and linking to any helpful tutorials, resources, hints, and tips you discover in your research. 
@@ -11,6 +11,8 @@ You should aim to answer the following questions:
 
 - What problem does the gem solve?
 - How do you use it in a rails app?
+- What advantage does the gem provide over other solutions?
+- Would you use this gem again?
 
 ## Topic/Gem Ideas
 
